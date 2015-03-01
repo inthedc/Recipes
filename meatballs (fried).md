@@ -54,7 +54,7 @@ Cooking Process
 > - Cook meatballs until browned like a normal hamburger patty.
 > -- if they are fully submerged, continually roll/stir them to help with heat distribution
 > -- if they are not fully submerged, cook one side until almost fully done, then rotate halfway to finish the second side.
-> - After they are fully cooked, best practice is to combine them with a Red Sauce and simmer for 4+ hours, to impart the flavor of the meatball into the sauce, and vice versa.
+
 
 ### Table of contents
 
@@ -66,4 +66,3 @@ Cooking Process
   [1]: http://www.ikea.com/us/en/catalog/products/30081467/#/00057256
   [2]: http://www.amazon.com/Cuisinart-CTG-08-SSK-Stainless-Steel-Skimmer/dp/B007RQ02VC/
   [3]: http://www.amazon.com/Lodge-EC7D33-Enameled-Caribbean-7-8-Quart/dp/B0039UU9U4/
-  
