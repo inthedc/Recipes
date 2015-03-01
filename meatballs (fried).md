@@ -44,8 +44,8 @@ Cooking Process
 
 > - Let both the pork and the ground beef acclimate to almost room temperature.
 > - Heat the oil to 350 degrees.
-> -- In a pot or high-walled frying pan use enough oil to cover the meatballs by 50% once in the oil.
-> -- Consider the impact of over-filling a shallow pan and spilling the oil onto the heating element, please.  Remember the turkey fryer incidents!
+  > - In a pot or high-walled frying pan use enough oil to cover the meatballs by 50% once in the oil.
+  > - Consider the impact of over-filling a shallow pan and spilling the oil onto the heating element, please.  Remember the turkey fryer incidents!
 > -- If you are using a deep fryer, simply fill to the standard fill line and proceed with caution.
 > - In the mixing bowl combine 2lbs. of ground beef and 2lbs of ground pork.
 > - While mixing thoroughly (without over-mixing the meat and destroying the texture) sprinkle with the salt and pepper.
@@ -66,5 +66,4 @@ Cooking Process
   [1]: http://www.ikea.com/us/en/catalog/products/30081467/#/00057256
   [2]: http://www.amazon.com/Cuisinart-CTG-08-SSK-Stainless-Steel-Skimmer/dp/B007RQ02VC/
   [3]: http://www.amazon.com/Lodge-EC7D33-Enameled-Caribbean-7-8-Quart/dp/B0039UU9U4/
-  [4]: http://inthedc.com
   
