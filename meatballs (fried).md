@@ -46,7 +46,7 @@ Cooking Process
 > - Heat the oil to 350 degrees.
   > * In a pot or high-walled frying pan use enough oil to cover the meatballs by 50% once in the oil.
   > * Consider the impact of over-filling a shallow pan and spilling the oil onto the heating element, please.  Remember the turkey fryer incidents!
-> -- If you are using a deep fryer, simply fill to the standard fill line and proceed with caution.
+  > * If you are using a deep fryer, simply fill to the standard fill line and proceed with caution.
 > - In the mixing bowl combine 2lbs. of ground beef and 2lbs of ground pork.
 > - While mixing thoroughly (without over-mixing the meat and destroying the texture) sprinkle with the salt and pepper.
 > - After the meat is combined, form into balls by rolling between your hands.  the balls should be approximately 1/3 lb. each and be about tennis-ball sized.
